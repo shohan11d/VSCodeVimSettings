@@ -13,7 +13,7 @@ VSCodeVim is a Vim emulator for Visual Studio Code + Commands
 
 <br>
 
-## Vim Shortcuts
+## Vim Shortcut
 
 ### Normal Mode
 
